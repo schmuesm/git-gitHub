@@ -1,2 +1,2 @@
 # git-gitHub
-Repositiory for DevOps training
+Repository for Udemy training: DevOps MasterClass: Docker Kubernetes Jenkins for DevOps
